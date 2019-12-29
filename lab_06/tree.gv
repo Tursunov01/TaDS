@@ -1,0 +1,10 @@
+digraph test_tree {
+марина -> арина [label = "left"];
+марина -> полина [label = "right"];
+арина -> катерина [label = "right"];
+катерина -> дима [label = "left"];
+дима -> георгий [label = "left"];
+дима -> заридий [label = "right"];
+полина -> митя [label = "left"];
+полина -> таня [label = "right"];
+}
